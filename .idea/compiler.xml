@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring-Boot-Events" />
+        <module name="Spring-Boot-GraphQL" />
         <module name="Spring-Boot-AOP" />
         <module name="Spring-Boot-PostgreSql-Docker" />
+        <module name="Spring-Boot-Pagination" />
         <module name="Spring-Boot-Dockerization" />
-        <module name="Spring-Boot-GraphQL" />
         <module name="Spring-Boot-RestTemplate" />
       </profile>
     </annotationProcessing>
@@ -19,7 +21,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-Boot-AOP" options="-parameters" />
       <module name="Spring-Boot-Dockerization" options="-parameters" />
+      <module name="Spring-Boot-Events" options="-parameters" />
       <module name="Spring-Boot-GraphQL" options="-parameters" />
+      <module name="Spring-Boot-Pagination" options="-parameters" />
       <module name="Spring-Boot-PostgreSql-Docker" options="-parameters" />
       <module name="Spring-Boot-RestTemplate" options="-parameters" />
     </option>

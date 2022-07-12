@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/Spring-Boot-AOP/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Boot-GraphQL/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Boot-RestTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-Pagination/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-Events/pom.xml" />
       </list>
     </option>
   </component>
