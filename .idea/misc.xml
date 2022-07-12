@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/Spring-Boot-Dockerization/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Boot-AOP/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Boot-GraphQL/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-RestTemplate/pom.xml" />
       </list>
     </option>
   </component>

@@ -4,6 +4,9 @@
     <file url="file://$PROJECT_DIR$/Spring-Boot-AOP/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Boot-Dockerization/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Boot-GraphQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-PostgreSql-Docker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-PostgreSql-Docker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-RestTemplate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

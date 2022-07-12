@@ -8,9 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-Boot-AOP" />
+        <module name="Spring-Boot-PostgreSql-Docker" />
         <module name="Spring-Boot-Dockerization" />
-        <module name="Spring-Projects" />
         <module name="Spring-Boot-GraphQL" />
+        <module name="Spring-Boot-RestTemplate" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,6 +20,8 @@
       <module name="Spring-Boot-AOP" options="-parameters" />
       <module name="Spring-Boot-Dockerization" options="-parameters" />
       <module name="Spring-Boot-GraphQL" options="-parameters" />
+      <module name="Spring-Boot-PostgreSql-Docker" options="-parameters" />
+      <module name="Spring-Boot-RestTemplate" options="-parameters" />
     </option>
   </component>
 </project>
